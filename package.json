@@ -1,0 +1,9 @@
+{
+  "name": "footy-grid",
+  "version": "1.0.0",
+  "description": "Football grid Tic-Tac-Toe PvP bot for Messenger, with AI answer verification",
+  "type": "module",
+  "dependencies": {
+    "@vercel/kv": "^3.0.0"
+  }
+}
